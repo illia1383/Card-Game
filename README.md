@@ -5,4 +5,3 @@ This project includes
 - problem solving using sets and pwoer sets
 -  linked lists
 -  loops and conditionals 
-- 
